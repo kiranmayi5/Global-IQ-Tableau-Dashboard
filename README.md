@@ -8,4 +8,4 @@ Key Features:
 - Temperature vs. IQ Trend: Displays the impact of average temperature on IQ across different regions.
 - Distribution of IQ Levels: A pie chart categorizing IQ levels globally into low, medium, and high.
   
-This project showcases my ability to create insightful data visualizations, exploring complex relationships between multiple variables at a global scale.
+This project showcases my ability to create insightful data visualizations, exploring complex relationships between multiple variables at a global scale. You can refer to it live here: https://public.tableau.com/views/GlobalIQTrendsDashboard/Dashboard1
